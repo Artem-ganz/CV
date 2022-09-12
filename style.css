@@ -1,0 +1,72 @@
+body {
+    background-color: #e5e3d8;
+    font: normal 16px 'Roboto', sans-serif;
+}
+.avatar {
+    border-radius: 25px;
+}
+.social {
+    background-color: rgb(159, 168, 154);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.hobby {
+    background-color: rgb(159, 168, 154);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.job {
+    background-color: rgb(159, 168, 154);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.conteiner {
+    max-width: 800px;
+    margin: auto;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+}
+.contact h2 {
+text-align: center;
+}
+.bottom {
+    padding: 12px 18px;
+    border: none;
+    background: rgb(159, 168, 154);
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow: 8px 8px 5px #444;
+}
+.bottom:hover {
+background-color: rgb(67, 81, 64);
+color: white;
+}
+.form-group label {
+    display: block;
+}
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    font-size: 18px;
+    border: none;
+    box-sizing: border-box;
+    border-bottom: 2px solid rgb(159, 168, 154);
+    padding: 10px 0 10px;
+    outline: none;
+}
